@@ -17,3 +17,33 @@ Ensure a smooth lift-off by meeting these prerequisites for our Numpy tutorial:
 5. **Familiarity with Elementary Linear Algebra (Optional):** While not mandatory, a basic understanding of linear algebra can add depth to your Numpy journey. 📚
 
 Additionally, set up a development environment. Ensure Numpy is installed locally, whether you're using an Integrated Development Environment (IDE) or platforms like Jupyter Notebooks or Google Colab. For detailed instructions, consult the [documentation available here](https://numpy.org/install/). These preparations guarantee a smoother and more effective learning experience. Welcome to the captivating universe of Numpy! 🌐✨
+
+## 📚 Welcome to the Numpy Tutorial Series!
+
+This repository is part of an ongoing tutorial series available on my blog. Each tutorial is designed to progressively guide you through mastering Numpy, starting from the basics and gradually delving into more advanced concepts. If you're just joining us, make sure to check out the previous tutorials on [my blog](https://carlosurias.netlify.app) to get the most out of this series.
+
+### Series Outline:
+
+1. **[First steps on Numpy: The array](https://carlosurias.netlify.app/numpy-first-steps):** Lay the foundation with Python basics and an overview of Numpy's power.
+   
+# What to Expect?
+In the upcoming tutorials, we'll delve into more challenging topics, from intermediate techniques to advanced strategies for data manipulation with Numpy. I'm excited to have you on board and to see you explore and contribute to this repository. Don't forget to stay tuned for new updates and additional content on the blog. Happy coding! 🚀✨
+
+Feel free to explore and contribute to this repository, and don't forget to check the blog for updates and additional content. Happy coding! 🚀
+
+
+## Project Structure
+
+In the blog posts, you may come across references like this when code examples or other resources are presented: **(Example Python - 1.1)**. This signifies the following:
+
+  - **"Example"**: Indicates that it is a code example or implementation.
+  - **"Python"**: Represents the folder or category containing the code; in this case, Python-related materials are located in a folder with the same name.
+  - **"1"**: Identifies the specific file within the folder.
+  - **".1"**: Specifies the particular section of the code within the file. In other words, within the same file, there is a comment specifying the example showcased in the blog post.
+
+Feel free to explore these folders and files; you will gain access to a variety of resources that complement the blog posts. Make sure to check the comments within the files for additional information about each resource. I hope you find these materials helpful! 🚀📁🔍
+
+
+## Coming Soon! 🌟🚀
+
+Stay tuned for exciting challenges and problems involving Numpy and data handling! We're gearing up to add engaging exercises that will enhance your skills in these areas. Get ready to level up your Python proficiency! 🧠💡📊

@@ -24,7 +24,9 @@ This repository is part of an ongoing tutorial series available on my blog. Each
 
 ### Series Outline:
 
-1. **[First steps on Numpy: The array](https://carlosurias.netlify.app/numpy-first-steps):** Lay the foundation with Python basics and an overview of Numpy's power.
+1. **[First steps on Numpy: The array](https://carlosurias.com/numpy-first-steps):** Lay the foundation with Python basics and an overview of Numpy's power.
+
+2. **[Numpy: Data types](https://carlosurias.com/numpy-data-types/):** comprehensive journey through the various data types available in the NumPy library.
    
 # What to Expect?
 In the upcoming tutorials, we'll delve into more challenging topics, from intermediate techniques to advanced strategies for data manipulation with Numpy. I'm excited to have you on board and to see you explore and contribute to this repository. Don't forget to stay tuned for new updates and additional content on the blog. Happy coding! 🚀✨
